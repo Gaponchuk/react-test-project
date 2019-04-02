@@ -69,6 +69,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 
-https://maxpfrontend.ru/perevody/rukovodstvo-po-react-js-2018/
+https://maxpfrontend.ru/perevody/rukovodstvo-po-react-js-2018/ <br>
 https://abraxabra.ru/react.js/bystryy-start/react-js-otrisovka-elementov/
 
