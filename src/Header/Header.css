@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+.header__title {
+    font-family: 'Roboto Slab', serif;
+    font-size: 56px;
+    font-weight: 800;
+}

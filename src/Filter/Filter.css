@@ -1,0 +1,27 @@
+.filterBlock {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.filterElement {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #92dbf580;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.filterElement:hover {
+    background-color: #035776ec;
+}
+
+.filterElement:hover > label {
+    color: #fff;
+}
+
+.filterElement label {
+    font-size: 16px;
+    color: #047dbd;
+    cursor: pointer;
+}

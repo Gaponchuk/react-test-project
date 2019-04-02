@@ -1,0 +1,36 @@
+.ContainerForBook {
+    max-width: 210px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.ContainerForBook__link {
+    display: block;
+    height: 290px;
+    transition: all .4s ease;
+    overflow: hidden;
+}
+
+.ContainerForBook__link > img {
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.ContainerForBook__authors {
+    display: block;
+}
+
+.ContainerForBook__link:hover {
+    box-shadow: 0 12px 8px -5px rgba(0, 0, 0, 0.3);
+}
+
+.ContainerForBook__title {
+    margin-bottom: 10px;
+    transition: all .4s ease;
+}
+
+.ContainerForBook__link:hover + .ContainerForBook__title {
+    color:red;
+}
